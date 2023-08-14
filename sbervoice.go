@@ -1,4 +1,4 @@
-package yavoice
+package sbervoice
 
 import (
 	"encoding/json"
